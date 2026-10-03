@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mar-ekenkoukotu.vercel.app/sitemap.xml
